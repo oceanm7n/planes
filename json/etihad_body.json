@@ -1,0 +1,24 @@
+{
+    "cabinClass": "Economy",
+    "awardBooking": "false",
+    "promoCodes": [],
+    "searchType": "BRANDED",
+    "itineraryParts": [
+        {
+            "from": {
+                "useNearbyLocations": false,
+                "code": ""
+            },
+            "to": {
+                "useNearbyLocations": false,
+                "code": ""
+            },
+            "when": {
+                "date": ""
+            }
+        }
+    ],
+    "passengers": {
+        "ADT": 1
+    }
+}
