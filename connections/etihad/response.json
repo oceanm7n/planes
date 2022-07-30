@@ -1,0 +1,2653 @@
+{
+    "searchResultMetaData": {
+        "branded": true,
+        "multipleDateResult": true,
+        "composedResult": false,
+        "interlineRoute": false,
+        "contextShopping": false
+    },
+    "fareFamilies": [
+        {
+            "brandId": "YF",
+            "brandLabel": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH",
+                    "marketingText": "Economy Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR",
+                    "marketingText": "Economy Choice Plus"
+                }
+            ],
+            "marketingTexts": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR"
+                }
+            ],
+            "brandAncillaries": {
+                "flightAncillary": []
+            },
+            "fareFamilyRemarkRPH": 0
+        },
+        {
+            "brandId": "YS",
+            "brandLabel": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH",
+                    "marketingText": "Economy Sale"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR",
+                    "marketingText": "Economy Sale"
+                }
+            ],
+            "marketingTexts": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR"
+                }
+            ],
+            "brandAncillaries": {
+                "flightAncillary": []
+            },
+            "fareFamilyRemarkRPH": 0
+        },
+        {
+            "brandId": "YH",
+            "brandLabel": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH",
+                    "marketingText": "Economy Hand Baggage Only"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR",
+                    "marketingText": "Economy Hand Baggage Only"
+                }
+            ],
+            "marketingTexts": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR"
+                }
+            ],
+            "brandAncillaries": {
+                "flightAncillary": []
+            },
+            "fareFamilyRemarkRPH": 0
+        },
+        {
+            "brandId": "YV",
+            "brandLabel": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH",
+                    "marketingText": "Economy Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR",
+                    "marketingText": "Economy Value"
+                }
+            ],
+            "marketingTexts": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR"
+                }
+            ],
+            "brandAncillaries": {
+                "flightAncillary": []
+            },
+            "fareFamilyRemarkRPH": 0
+        },
+        {
+            "brandId": "YC",
+            "brandLabel": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH",
+                    "marketingText": "Economy Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR",
+                    "marketingText": "Economy Choice"
+                }
+            ],
+            "marketingTexts": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR"
+                }
+            ],
+            "brandAncillaries": {
+                "flightAncillary": []
+            },
+            "fareFamilyRemarkRPH": 0
+        },
+        {
+            "brandId": "JV",
+            "brandLabel": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH",
+                    "marketingText": "Business Value"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR",
+                    "marketingText": "Business Value"
+                }
+            ],
+            "marketingTexts": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR"
+                }
+            ],
+            "brandAncillaries": {
+                "flightAncillary": []
+            },
+            "fareFamilyRemarkRPH": 0
+        },
+        {
+            "brandId": "JC",
+            "brandLabel": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH",
+                    "marketingText": "Business Choice"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR",
+                    "marketingText": "Business Choice"
+                }
+            ],
+            "marketingTexts": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR"
+                }
+            ],
+            "brandAncillaries": {
+                "flightAncillary": []
+            },
+            "fareFamilyRemarkRPH": 0
+        },
+        {
+            "brandId": "JF",
+            "brandLabel": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH",
+                    "marketingText": "Business Choice Plus"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR",
+                    "marketingText": "Business Choice Plus"
+                }
+            ],
+            "marketingTexts": [
+                {
+                    "programId": "124499",
+                    "languageId": "en_GB"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ar_AE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "zh_CN"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "nl_NL"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "fr_FR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "de_DE"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "el_GR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "it_IT"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ja_JP"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ko_KR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "pt_BR"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "ru_RU"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "es_ES"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "th_TH"
+                },
+                {
+                    "programId": "124499",
+                    "languageId": "tr_TR"
+                }
+            ],
+            "brandAncillaries": {
+                "flightAncillary": []
+            },
+            "fareFamilyRemarkRPH": 0
+        }
+    ],
+    "unbundledOffers": [
+        [
+            {
+                "shoppingBasketHashCode": 1844295150,
+                "brandId": "YF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "1",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "2",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Economy",
+                                "equipment": "789",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "advisories": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-16T14:30:00",
+                                "arrival": "2022-08-16T18:50:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "3",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Economy",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "advisories": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-17T03:35:00",
+                                "arrival": "2022-08-17T08:25:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1075,
+                        "connectionInformations": [
+                            {
+                                "@id": "4",
+                                "duration": 525,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "Y",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ],
+                        "advisories": []
+                    }
+                ],
+                "cabinClass": "Economy",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "advisories": [],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2364.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2192,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 172.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "shoppingBasketHashCode": -190481762,
+                "brandId": "JF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "5",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "6",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Business",
+                                "equipment": "789",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "advisories": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-16T14:30:00",
+                                "arrival": "2022-08-16T18:50:00",
+                                "bookingClass": "J",
+                                "layoverDuration": 0,
+                                "fareBasis": "JF3OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "7",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Business",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "advisories": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-17T03:35:00",
+                                "arrival": "2022-08-17T08:25:00",
+                                "bookingClass": "J",
+                                "layoverDuration": 0,
+                                "fareBasis": "JF3OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1075,
+                        "connectionInformations": [
+                            {
+                                "@id": "8",
+                                "duration": 525,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "J",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ],
+                        "advisories": []
+                    }
+                ],
+                "cabinClass": "Business",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "advisories": [],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 9670.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 9258,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 412.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            }
+        ]
+    ],
+    "unbundledAlternateDateOffers": [
+        [
+            {
+                "brandId": "YF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "9",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "10",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Economy",
+                                "equipment": "32A",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-13T14:30:00",
+                                "arrival": "2022-08-13T18:50:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "11",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Economy",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-14T03:35:00",
+                                "arrival": "2022-08-14T08:25:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1075,
+                        "connectionInformations": [
+                            {
+                                "@id": "12",
+                                "duration": 525,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "Y",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ]
+                    }
+                ],
+                "cabinClass": "Economy",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "status": "AVAILABLE",
+                "departureDates": [
+                    "2022-08-13"
+                ],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2349.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2177,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 172.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "brandId": "YF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "13",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "14",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Economy",
+                                "equipment": "789",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-14T15:15:00",
+                                "arrival": "2022-08-14T19:35:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "15",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Economy",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-15T03:35:00",
+                                "arrival": "2022-08-15T08:25:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1030,
+                        "connectionInformations": [
+                            {
+                                "@id": "16",
+                                "duration": 480,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "Y",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ]
+                    }
+                ],
+                "cabinClass": "Economy",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "status": "AVAILABLE",
+                "departureDates": [
+                    "2022-08-14"
+                ],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2364.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2192,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 172.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "brandId": "YF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "17",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "18",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Economy",
+                                "equipment": "321",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-15T14:30:00",
+                                "arrival": "2022-08-15T18:50:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "19",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Economy",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-16T03:35:00",
+                                "arrival": "2022-08-16T08:25:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1075,
+                        "connectionInformations": [
+                            {
+                                "@id": "20",
+                                "duration": 525,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "Y",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ]
+                    }
+                ],
+                "cabinClass": "Economy",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "status": "AVAILABLE",
+                "departureDates": [
+                    "2022-08-15"
+                ],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2364.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2192,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 172.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "brandId": "YF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "21",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "22",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Economy",
+                                "equipment": "789",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-16T14:30:00",
+                                "arrival": "2022-08-16T18:50:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "23",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Economy",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-17T03:35:00",
+                                "arrival": "2022-08-17T08:25:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1075,
+                        "connectionInformations": [
+                            {
+                                "@id": "24",
+                                "duration": 525,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "Y",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ]
+                    }
+                ],
+                "cabinClass": "Economy",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "status": "AVAILABLE",
+                "departureDates": [
+                    "2022-08-16"
+                ],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2364.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2192,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 172.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "brandId": "YF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "25",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "26",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Economy",
+                                "equipment": "321",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-17T14:55:00",
+                                "arrival": "2022-08-17T19:15:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "27",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Economy",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-18T03:35:00",
+                                "arrival": "2022-08-18T08:25:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1050,
+                        "connectionInformations": [
+                            {
+                                "@id": "28",
+                                "duration": 500,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "Y",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ]
+                    }
+                ],
+                "cabinClass": "Economy",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "status": "AVAILABLE",
+                "departureDates": [
+                    "2022-08-17"
+                ],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2364.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2192,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 172.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "brandId": "YF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "29",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "30",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Economy",
+                                "equipment": "321",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-18T13:30:00",
+                                "arrival": "2022-08-18T17:50:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "31",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Economy",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-19T03:35:00",
+                                "arrival": "2022-08-19T08:25:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1135,
+                        "connectionInformations": [
+                            {
+                                "@id": "32",
+                                "duration": 585,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "Y",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ]
+                    }
+                ],
+                "cabinClass": "Economy",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "status": "AVAILABLE",
+                "departureDates": [
+                    "2022-08-18"
+                ],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2364.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2192,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 172.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "brandId": "YF",
+                "soldout": false,
+                "bundlePrice": {},
+                "availableObFees": [],
+                "seatsRemaining": {
+                    "count": 9,
+                    "lowAvailability": false
+                },
+                "itineraryPart": [
+                    {
+                        "@type": "ItineraryPart",
+                        "@id": "33",
+                        "segments": [
+                            {
+                                "@type": "Segment",
+                                "@id": "34",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 1296,
+                                    "awardFare": false
+                                },
+                                "duration": 200,
+                                "cabinClass": "Economy",
+                                "equipment": "321",
+                                "flight": {
+                                    "flightNumber": 599,
+                                    "operatingFlightNumber": 599,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "3"
+                                },
+                                "origin": "TLV",
+                                "destination": "AUH",
+                                "departure": "2022-08-19T14:30:00",
+                                "arrival": "2022-08-19T18:50:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "TLV",
+                                "fareComponentEndAirport": "AUH",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Segment",
+                                "@id": "35",
+                                "segmentOfferInformation": {
+                                    "flightsMiles": 2339,
+                                    "awardFare": false
+                                },
+                                "duration": 350,
+                                "cabinClass": "Economy",
+                                "equipment": "781",
+                                "flight": {
+                                    "flightNumber": 65,
+                                    "operatingFlightNumber": 65,
+                                    "airlineCode": "EY",
+                                    "operatingAirlineCode": "EY",
+                                    "stopAirports": [],
+                                    "departureTerminal": "3",
+                                    "arrivalTerminal": "C"
+                                },
+                                "origin": "AUH",
+                                "destination": "SVO",
+                                "departure": "2022-08-20T03:35:00",
+                                "arrival": "2022-08-20T08:25:00",
+                                "bookingClass": "Y",
+                                "layoverDuration": 0,
+                                "fareBasis": "YF1OW",
+                                "subjectToGovernmentApproval": false,
+                                "fareComponentBeginAirport": "AUH",
+                                "fareComponentEndAirport": "SVO",
+                                "fareComponentDirectionality": "FROM",
+                                "meals": [
+                                    {
+                                        "passengerType": "ADT",
+                                        "mealCode": "M"
+                                    }
+                                ]
+                            }
+                        ],
+                        "stops": 1,
+                        "totalDuration": 1075,
+                        "connectionInformations": [
+                            {
+                                "@id": "36",
+                                "duration": 525,
+                                "changeOfAirport": false
+                            }
+                        ],
+                        "bookingClass": "Y",
+                        "programIDs": [
+                            "124499"
+                        ],
+                        "programCodes": [
+                            "EYA"
+                        ]
+                    }
+                ],
+                "cabinClass": "Economy",
+                "offerInformation": {
+                    "discounted": false,
+                    "negotiated": false,
+                    "negotiatedType": "NONE"
+                },
+                "status": "AVAILABLE",
+                "departureDates": [
+                    "2022-08-19"
+                ],
+                "total": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2364.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "fare": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 2192,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                },
+                "taxes": {
+                    "alternatives": [
+                        [
+                            {
+                                "amount": 172.61,
+                                "currency": "USD"
+                            }
+                        ]
+                    ]
+                }
+            }
+        ]
+    ],
+    "bundledOffers": [],
+    "bundledAlternateDateOffers": [],
+    "brandedResults": {
+        "itineraryPartBrands": [
+            [
+                {
+                    "itineraryPart": {
+                        "@ref": "1"
+                    },
+                    "brandOffers": [
+                        {
+                            "shoppingBasketHashCode": 1844295150,
+                            "brandId": "YF",
+                            "soldout": false,
+                            "bundlePrice": {},
+                            "availableObFees": [],
+                            "seatsRemaining": {
+                                "count": 9,
+                                "lowAvailability": false
+                            },
+                            "cabinClass": "Economy",
+                            "offerInformation": {
+                                "discounted": false,
+                                "negotiated": false,
+                                "negotiatedType": "NONE"
+                            },
+                            "advisories": [],
+                            "total": {
+                                "alternatives": [
+                                    [
+                                        {
+                                            "amount": 2364.61,
+                                            "currency": "USD"
+                                        }
+                                    ]
+                                ]
+                            },
+                            "totalMandatoryObFees": {
+                                "alternatives": []
+                            },
+                            "fare": {
+                                "alternatives": [
+                                    [
+                                        {
+                                            "amount": 2192,
+                                            "currency": "USD"
+                                        }
+                                    ]
+                                ]
+                            },
+                            "taxes": {
+                                "alternatives": [
+                                    [
+                                        {
+                                            "amount": 172.61,
+                                            "currency": "USD"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "shoppingBasketHashCode": -190481762,
+                            "brandId": "JF",
+                            "soldout": false,
+                            "bundlePrice": {},
+                            "availableObFees": [],
+                            "seatsRemaining": {
+                                "count": 9,
+                                "lowAvailability": false
+                            },
+                            "cabinClass": "Business",
+                            "offerInformation": {
+                                "discounted": false,
+                                "negotiated": false,
+                                "negotiatedType": "NONE"
+                            },
+                            "advisories": [],
+                            "total": {
+                                "alternatives": [
+                                    [
+                                        {
+                                            "amount": 9670.61,
+                                            "currency": "USD"
+                                        }
+                                    ]
+                                ]
+                            },
+                            "totalMandatoryObFees": {
+                                "alternatives": []
+                            },
+                            "fare": {
+                                "alternatives": [
+                                    [
+                                        {
+                                            "amount": 9258,
+                                            "currency": "USD"
+                                        }
+                                    ]
+                                ]
+                            },
+                            "taxes": {
+                                "alternatives": [
+                                    [
+                                        {
+                                            "amount": 412.61,
+                                            "currency": "USD"
+                                        }
+                                    ]
+                                ]
+                            }
+                        }
+                    ],
+                    "duration": 1075,
+                    "departure": "2022-08-16T14:30:00",
+                    "arrival": "2022-08-17T08:25:00"
+                }
+            ]
+        ]
+    },
+    "travelPartAdvisories": [
+        []
+    ],
+    "soldOutDatesOutbound": [],
+    "soldOutDatesInbound": [],
+    "noneScheduledDatesOutbound": [],
+    "noneScheduledDatesInbound": [],
+    "warnings": [],
+    "currency": "USD",
+    "promocodeValid": false,
+    "negotiateFarePresent": false,
+    "conversionRatesFound": false
+}

@@ -2,14 +2,24 @@ package main
 
 import (
 	"bytes"
-	"fmt"
+	"encoding/json"
 	"io/ioutil"
 	"log"
 	"net/http"
+	"strings"
+
+	etihad "github.com/oceanm7n/planes/connections/etihad"
+	"github.com/ssgreg/logf"
 )
 
-func set_headers(req *http.Request) {
-	bearer := "Bearer T1RLAQKLURagp1oTjbdGHeNc66cp2u2hdOyBjnrm+fjGrk+l/BDPPvpTx0rY9XmTDcoIm9LSAADQNBqqwfCK7l1AActydyb7vcka6vuqM61sKKA52qvtT7JMQRkltsKpf9/GiG6rbLzWcbdqTjwNctkbL/8OQbxJWzNhnlIkHAe3ggXrec6JsN5BHos2prdkBS1tzm7BjUgLfHwxShH6UI08kdmX7Q9Q+MnLZiKU71L0c9pkHez4DvqbVoujrdrfmePIYtzc9iqaLDKzmli3M9YMHxjhQWqtwgnFMOypIm4mpOg+aMTi/+e0B5rhJeOPGaKe5iBIER+PeBc8XRBRec+3hkurJkFJ8w**"
+func get_bearer() string {
+	// todo: automate this
+
+	return "Bearer T1RLAQJDmFRVL84iCqkJBI5YF6O1XPDcd0NxbJ/skxDwKKaU9hCH33wU1nAK6JbX408C0LbpAADQJJ8M058T7j2Jbesr2AKyTTwzfTfKhHdUTozZtyC+kfdUsRd/ulPMW2zpjUgFSceXWSgOynZ+vX9z1+9RBH7F8BFM9u1uAqTVzd4Bo8QQ16Y9c9wY3tEeBT1wLKy+uCVhushi1aEMpsFpYMYX9AgOHKh416IxOkN2EYDIVWfsDIah1/L2YkukslkzFpaOO1HnADUi1yQVv1h3p/e+ow92rIEK2FqiAfT5TXJjdpuy1BFVWayYQYdBaPT3OmXksb3pQZ1LNmodfhqq9bnLlwZqkA**"
+}
+
+func set_headers(req *http.Request, logger *logf.Logger) {
+	bearer := get_bearer()
 
 	headers := make(map[string]string)
 
@@ -28,8 +38,30 @@ func set_headers(req *http.Request) {
 	}
 }
 
+func logger() (*logf.Logger, logf.ChannelWriterCloseFunc) {
+	writer, writerClose := logf.NewChannelWriter.Default()
+
+	return logf.NewLogger(logf.LevelInfo, writer), writerClose
+}
+
+func read_response(resp *http.Response, logger *logf.Logger) {
+	logger.Info("response Status:" + resp.Status)
+	body, _ := ioutil.ReadAll(resp.Body)
+	logger.Debug("response Body:")
+	logger.Debug(strings.ReplaceAll(string(body), `"`, `'`))
+
+	var response etihad.Response
+	json.Unmarshal(body, &response)
+
+	seats_left, price := response.UnbundledOffers[0][0].SeatsRemaining.Count, response.UnbundledOffers[0][0].Total.Alternatives[0][0].Amount
+	logger.Info("Price fetched", logf.Int("seats_left", seats_left), logf.Int("price", price))
+}
+
 func main() {
-	fmt.Println("Application started")
+	logger, writerClose := logger()
+	defer writerClose()
+
+	logger.Info("Application started")
 
 	// Set URL
 	EXECGUID := "95c1c492-b008-4981-9a12-03c9c1c2ff5d"
@@ -37,13 +69,13 @@ func main() {
 	url := "https://dc.etihad.com/v4.3/dc/products/air/search?execution=" + EXECGUID + "&jipcc=" + JIPCC
 
 	// Create request
-	req_body := Generate_body("SVO", "AUH", "2022-06-01")
+	req_body := etihad.Create_body("SVO", "AUH", "2022-09-01")
 	req, err := http.NewRequest(http.MethodPost, url, bytes.NewBuffer(req_body))
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	set_headers(req)
+	set_headers(req, logger)
 
 	client := &http.Client{}
 	resp, err := client.Do(req)
@@ -52,11 +84,5 @@ func main() {
 	}
 	defer resp.Body.Close()
 
-	fmt.Println("request Headers", req.Header)
-	fmt.Println("response Status:", resp.Status)
-	fmt.Println("response Headers:", resp.Header)
-	body, _ := ioutil.ReadAll(resp.Body)
-	fmt.Println("response Body:", string(body))
-
-	fmt.Println(url)
+	read_response(resp, logger)
 }
