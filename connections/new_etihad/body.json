@@ -1,0 +1,31 @@
+{
+    "operationName": "bookingAirSearch",
+    "variables": {
+        "airSearchInput": {
+            "cabinClass": "Economy",
+            "awardBooking": false,
+            "promoCodes": [],
+            "searchType": "BRANDED",
+            "itineraryParts": [
+                {
+                    "from": {
+                        "useNearbyLocations": false,
+                        "code": "SVO"
+                    },
+                    "to": {
+                        "useNearbyLocations": false,
+                        "code": "TLV"
+                    },
+                    "when": {
+                        "date": "2022-10-25"
+                    }
+                }
+            ],
+            "passengers": {
+                "ADT": 1
+            }
+        }
+    },
+    "extensions": {},
+    "query": "query bookingAirSearch($airSearchInput: CustomAirSearchInput) {\n  bookingAirSearch(airSearchInput: $airSearchInput) {\n    originalResponse\n    __typename\n  }\n}\n"
+}
